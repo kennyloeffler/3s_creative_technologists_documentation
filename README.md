@@ -32,12 +32,12 @@ Prototype first!
 The last task was to make a plot from .CSV data that comes out of the city of Berlin. CSV means "comma-seperated-values". It´s basicly a big table with lots of values and strings whitch are seperated by commas. 
 For this task, we choosed to take the data of Wochenmärkte and Flohmärkte. The city of Berlin has a database of .CSV files that you can use for free (https://daten.berlin.de/datensaetze). For the visualisation of the graphical elements, i first tried it with the JS library TURFJS (https://turfjs.org/), which is very good for mapping projects. I can probably use it again in future projects. Also i learned how to use librarys and extensions inside projects.
 
-	![SVG](/img/Bildschirmfoto 2020-03-26 um 12.55.37.png)
+![TURFJS](/img/turfjs.png)
 
 At the end of the semester, we didn´t finished the project and left it on our harddrives. After some weeks, we had zero motivation to finish it. But after some hours we managed to backward engineer the files from Fabian. Then we managed to integrate our own data in the modified file. 
 
 ![Drawing Machine](/img/index.jpg)
-![TURFJS](/img/turfjs.png)
+
 
 Due to the Corona Epidemic, we could not plot our final result.
 
