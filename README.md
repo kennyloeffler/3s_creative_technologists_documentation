@@ -5,6 +5,8 @@ This is a documentation of my projects i have worked on in my first semester.
 
 In my first semester, i took part at the course "Processing for Designers". I´ve learned the basics about coding and interactive hardware. In this course i wanted to dive deeper in to coding and setting up hardware.
 
+![Names of Charlottenburg](/img/b1.png)
+
 ## Coding Lessons
 
 At the first meetings, we learned how to set up our projects and how to structure them properly. Also we learned how to set up our own local server including librarys like "NPM". All this was to speed up our workflow and get fast results.
