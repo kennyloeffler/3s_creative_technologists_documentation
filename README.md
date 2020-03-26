@@ -3,7 +3,7 @@ This is a documentation of my projects i have worked on in my first semester.
 
 #### Why did i choosed the Creative Technologists course? 
 
-In my first semester, i took part at the course "Processing for Designers". I´ve learned the basics about coding and interactive hardware. In this course i wanted to dive deeper in to coding and seting up hardware.
+In my first semester, i took part at the course "Processing for Designers". I´ve learned the basics about coding and interactive hardware. In this course i wanted to dive deeper in to coding and setting up hardware.
 
 ## Coding Lessons
 
