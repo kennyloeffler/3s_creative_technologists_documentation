@@ -19,8 +19,8 @@ Setting up a good work structure saves a lot of time!
 
 We had the task to build a working drawing machine. So first we started to prototype a basic drawing machine with Arduino Parts. The machine was working, but it drew only a straight line. We wanted to have a little bit more control of what the machine can draw. We realised, that we need more parts to build a drawing arm that can draw more intersting things. So we descided to build a new machine with new parts out of LEGO. Also the software and computer was replaced by the LEGO Mindstorm module. 
 
-![Drawing Machine](/img/photo_2020-03-26_12-36-35.jpg.)
-![Drawing Machine](/img/photo_2020-03-26_12-36-40.jpg.)
+![Drawing Machine](/img/photo_2020-03-26_12-36-35.jpg)
+![Drawing Machine](/img/photo_2020-03-26_12-36-40.jpg)
 
 ### What i learned:
 
@@ -34,7 +34,7 @@ For this task, we choosed to take the data of Wochenmärkte and Flohmärkte. The
 
 At the end of the semester, we didn´t finished the project and left it on our harddrives. After some weeks, we had zero motivation to finish it. But after some hours we managed to backward engineer the files from Fabian. Then we managed to integrate our own data in the modified file. 
 
-![Drawing Machine](/img/index.jpg.)
+![Drawing Machine](/img/index.jpg)
 
 Due to the Corona Epidemic, we could not plot our final result.
 
