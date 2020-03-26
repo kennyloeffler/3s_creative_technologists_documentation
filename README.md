@@ -35,7 +35,7 @@ For this task, we choosed to take the data of Wochenmärkte and Flohmärkte. The
 At the end of the semester, we didn´t finished the project and left it on our harddrives. After some weeks, we had zero motivation to finish it. But after some hours we managed to backward engineer the files from Fabian. Then we managed to integrate our own data in the modified file. 
 
 ![Drawing Machine](/img/index.jpg)
-![Drawing Machine](/img/turfjs.jpg)
+![TURFJS](/img/turfjs.png)
 
 Due to the Corona Epidemic, we could not plot our final result.
 
