@@ -38,6 +38,7 @@ At the end of the semester, we didn´t finished the project and left it on our h
 
 ![Drawing Machine](/img/index.jpg)
 
+Link to the final project ==> https://github.com/AgathaCrystal/ct-tracing-the-city
 
 Due to the Corona Epidemic, we could not plot our final result.
 
